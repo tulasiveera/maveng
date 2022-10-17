@@ -5,7 +5,7 @@
 	<artifactId>download-maven-plugin</artifactId>
 	<packaging>jar</packaging>
 	<version>1.6.9-SNAPSHOT</version>
-	<name>Download Plugin for Maven</name>
+	<name>Tulasi</name>
 	<!-- See https://docs.sonatype.org/display/Repository/Sonatype+OSS+Maven+Repository+Usage+Guide -->
 	<parent>
 		<groupId>org.sonatype.oss</groupId>
